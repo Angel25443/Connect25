@@ -1,7 +1,7 @@
-# 📗 __Connect25__ V 1.0.0
-# :pushpin: __ Fonctionnalité__
+# 📗 Connect25 V 1.0.0
+# :pushpin: Fonctionnalité
 *- Envoie un message lors de la connexion d'un joueur avec ses informations nom,prénom etc..* 
-# 🛠️__Installation__
+# 🛠️ Installation
 *1 - Télécharger le Connect25.dll*
 
 *2 - Mettre le fichier dans le dossier plugin de votre serveur*
